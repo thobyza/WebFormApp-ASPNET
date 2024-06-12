@@ -17,7 +17,7 @@
             </asp:RequiredFieldValidator>
         </div> 
         
-        <!-- Email -->
+        <!-- Email  -->
         <div class="mb-3">
             <asp:Label ID="Label2" runat="server" Text="Email" CssClass="form-label"></asp:Label>
             <asp:TextBox runat="server" ID="txtEmail" CssClass="form-control"></asp:TextBox>
